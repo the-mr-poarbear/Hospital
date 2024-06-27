@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'black';
+    src: url('../../assets/fonts/Inter-Black.ttf') ;
+       
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url('../../assets/fonts/Inter-Medium.ttf') ;
+       
+}
+
+#root{
+    padding: 0;
+}
+
+.body{
+    background-color: #396C84;
+    border-radius: 10px;
+    min-width: 300px;
+    padding: 50px 0px; 
+    margin: 10px;  
+}
+
+.body h2{
+    font-family: 'black';
+}
+
+.body p{
+    font-family: 'medium';
+}
+
+.button{
+    background-color: #162A33;
+    font-family: 'medium';
+}

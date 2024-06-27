@@ -1,0 +1,55 @@
+
+body{
+  background-color: #F1F1F4;
+}
+
+#root{
+  width: 100%;
+  background-color: #F1F1F4;
+
+}
+
+.imgHome{
+
+  margin-top: 80px;
+  
+ 
+}
+
+.temp{
+
+  padding-top: 50px;
+  background-color: #F1F1F4;
+
+}
+
+.wave{
+  background-color: #F1F1F4;
+  object-fit: cover;
+  width: 100%;  
+  height: 100%;
+ 
+}
+
+
+.YCU{
+ 
+  bottom: 200px;
+  font-family: 'black';
+  font-size: 96px;
+  position: absolute;
+}
+
+.backYCU{
+  background-color: #396C84;
+  padding-bottom: 150px;
+}
+
+.YCUDiv{
+  position: relative;
+  flex-grow: 0;
+  flex-shrink: 0;
+  height: 600px;
+ 
+}
+

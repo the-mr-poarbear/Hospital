@@ -1,0 +1,17 @@
+
+.loginBody{
+    background-color: #396C84;
+    border-radius: 10px;
+    padding: 50px 0px; 
+    margin: 10px; 
+    width: 100%;
+    max-width: 500px;
+}
+
+.loginform{
+    border-radius: 40px;
+    background-color: #8AA6B5;
+    border: none;
+   
+}
+

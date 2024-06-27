@@ -1,0 +1,11 @@
+.infoRows p{
+    margin: 15px 0;
+}
+
+.infoRows{
+    border-radius: '0px 0px 10px 10px';
+    padding:"0 2.5vw" ;
+    position:'relative' ;
+    bottom:"50px";
+    
+}

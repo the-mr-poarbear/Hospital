@@ -1,0 +1,13 @@
+.LoginPage{
+    background-color: rgba(red, green, blue, alpha);
+}
+
+.ContainerLog{
+    background-image: url("../../assets/media/waveLogin.svg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
